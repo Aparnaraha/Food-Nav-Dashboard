@@ -5,7 +5,7 @@
 }
 .class{
     height: 100vh;
-    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.6)),url(food.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.6)),url(image/food.jpg);
     background-position: center;
     background-size: cover;
     overflow-x: hidden;
@@ -68,4 +68,6 @@
     align:margin-left;
 }
 
-
+.banner-title h1 span{
+    color: orange;
+}
